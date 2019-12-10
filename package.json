@@ -1,0 +1,17 @@
+{
+  "name": "react-router-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "loader-utils": "^1.2.3",
+    "react": "^16.6.0"
+  }
+}
