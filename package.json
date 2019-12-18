@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.7.5",
     "glob": "^7.1.6",
+    "immer": "^5.0.1",
     "loader-utils": "^1.2.3",
-    "react": "^16.6.0"
+    "react": "^16.6.0",
+    "redux-saga": "^1.1.3"
   }
 }
